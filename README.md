@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tristanscl
+- 👀 I’m interested in Physics, Data Science, Finance
+- 💞️ I’m looking to collaborate on any project related to these fields
+- 📫 How to reach me tristanscuillereng@gmail.com
