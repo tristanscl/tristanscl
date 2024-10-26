@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tristanscl
-- 👀 I’m interested in Physics, Data Science, Finance
-- 💞️ I’m looking to collaborate on any project related to these fields
-- 📫 How to reach me tristanscuillereng@gmail.com
+# Tristan Scuiller
+
+Interested in ML & data science. Many projects carried out with application in market finance.
+
+Mountain lover.
